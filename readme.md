@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/y8fnx41wd3ypnlx6?svg=true)](https://ci.appveyor.com/project/igi/sitgen)
+
+---
+
 # SitGen
 
 A command-line driven plugin-enabled single-pass static site generator.
